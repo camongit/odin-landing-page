@@ -1,1 +1,2 @@
 -this landing page is created for theodinproject landing page project
+-it intends to replicate the example as closely as possible
